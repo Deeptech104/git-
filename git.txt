@@ -1,0 +1,8 @@
+git init 
+git add "file name"
+git add .
+git commit -m "commit message"
+git push -u origin master
+git branch -a
+git checkout -b "branch name"
+
